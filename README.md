@@ -1,21 +1,47 @@
-# gnb_share
+# vux-webpack-boilerplate
 
-> gnb_share
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-## Build Setup
+## 功能特性
+- Eslint(Standard)
+- Axios初始化配置
+- Vux(Vue手机组件)
+- CSSHTML内联
 
-``` bash
-# install dependencies
-npm install
+## 技术一览
 
-# serve with hot reload at localhost:8080
-npm run dev
+### JS
 
-# build for production with minification
-npm run build
+-	[vue](http://cn.vuejs.org/guide/)
 
-# build for production and view the bundle analyzer report
-npm run build --report
+-	[vue-router](http://router.vuejs.org/zh-cn/index.html)
+
+-	[vuex](http://vuex.vuejs.org/zh-cn/index.html)
+
+-	[Axios](https://github.com/mzabriskie/axios)
+
+-	[vuex-router-sync](https://github.com/vuejs/vuex-router-sync)
+
+### UI 组件
+
+-	[Vux - Vue组件库](https://vux.li/#/)
+
+-	[Vue-meta - 网页head字段控制](https://github.com/declandewet/vue-meta)
+
+### 运行
+
+## Install
+```
+yarn / npm install 
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Development
+```
+yarn run dev / npm run dev
+
+```
+### Build
+```
+yarn run build / npm run build
+yarn run build --report / npm run build --report
+```
