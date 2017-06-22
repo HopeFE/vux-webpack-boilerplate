@@ -1,7 +1,7 @@
 {
-  "name": "gnb_share",
+  "name": "vux-webpack-boilerplate",
   "version": "1.0.0",
-  "description": "gnb_share",
+  "description": "vux-webpack-boilerplate",
   "author": "Hope <hopefullstack@gmail.com>",
   "private": true,
   "scripts": {
