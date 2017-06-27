@@ -1,11 +1,11 @@
 import Vue from 'vue'
+import 'babel-polyfill'
 import store from './store'
 import VueRouter from 'vue-router'
 import router from './route'
 import { sync } from 'vuex-router-sync'
 import VueMeta from 'vue-meta'
 import FastClick from 'fastclick'
-import 'es6-promise/auto'
 import App from './App'
 
 Vue.use(VueRouter)

@@ -1,12 +1,13 @@
 # vux-webpack-boilerplate
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-
+[![Dependencies](https://david-dm.org/HopeFE/GNB_STUDENT/status.svg)](https://david-dm.org/HopeFE/vux-webpack-boilerplate) 
+[![devDependencies](https://david-dm.org/HopeFE/vux-webpack-boilerplate/dev-status.svg)](https://david-dm.org/HopeFE/vux-webpack-boilerplate?type=dev) 
 ## 功能特性
-- Eslint(Standard)
 - Axios初始化配置
 - Vux(Vue手机组件)
 - CSSHTML内联
+- Async/Await 支持
 
 ## 技术一览
 
