@@ -1,15 +1,12 @@
-# vux-webpack-boilerplate
+# ANT_APP_GOODS_H5
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-[![Dependencies](https://david-dm.org/HopeFE/GNB_STUDENT/status.svg)](https://david-dm.org/HopeFE/vux-webpack-boilerplate) 
+[![Dependencies](https://david-dm.org/HopeFE/vux-webpack-boilerplate/status.svg)](https://david-dm.org/HopeFE/vux-webpack-boilerplate)
 [![devDependencies](https://david-dm.org/HopeFE/vux-webpack-boilerplate/dev-status.svg)](https://david-dm.org/HopeFE/vux-webpack-boilerplate?type=dev)
- 
-## 功能特性
 
-- Axios初始化配置
-- Vux(Vue手机组件)
-- CSSHTML内联
-- Async/Await 支持
+## 简介
+
+爱农田APP商品分享网页
 
 ## 技术一览
 
@@ -35,7 +32,7 @@
 
 ## Install
 ```
-yarn / npm install 
+yarn / npm install
 ```
 
 ## Development
@@ -43,6 +40,7 @@ yarn / npm install
 yarn run dev / npm run dev
 
 ```
+
 ### Build
 ```
 yarn run build / npm run build
